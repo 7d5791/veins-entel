@@ -19,4 +19,4 @@ Permission is hereby granted, without written agreement and without license or r
 # REFERENCES
 1. Paredes, C. I.; Mezher, A. M. & Igartua, Mó. A. Performance evaluation of dissemination protocols for emergency messages in Vehicular Ad-Hoc networks XII Jornadas de Ingeniería Telemática (JITEL), 2015
 1. Iza-Paredes, C.; Mezher, A. M. & Aguilar Igartua, M. Evaluating Video Dissemination in Realistic Urban Vehicular Ad-Hoc Networks Proceedings of the 19th ACM International Conference on Modeling, Analysis and Simulation of Wireless and Mobile Systems, ACM, 2016, 78-8
-1. Iza-Paredes, C.; Mezher, A. M. & Aguilar Igartua, M. Adaptive Video-streaming Dissemination in Realistic Highway Vehicular Ad-Hoc Networks Proceedings of the 13th ACM Symposium on Performance Evaluation of Wireless Ad Hoc, Sensor, &38; Ubiquitous Networks, ACM, 2016, 1-10
+1. Iza-Paredes, C.; Mezher, A. M. & Aguilar Igartua, M. Adaptive Video-streaming Dissemination in Realistic Highway Vehicular Ad-Hoc Networks Proceedings of the 13th ACM Symposium on Performance Evaluation of Wireless Ad Hoc, Sensor, &38; Ubiquitous Networks, ACM, 2016, 1-10.
