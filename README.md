@@ -5,10 +5,9 @@ Data Dissemination in Vehicular Ad Hoc Networks - May 30, 2017
 
 Author: Cristhian Iza (7d5791@mail.com)
 Copyright(c) INRISCO. QoS And Privacy - UPC,
-
              Universitat Politècnica de Catalunya, BarcelonaTech
              http://inrisco.org/
-             
+            
 All rights reserved.
 
 
